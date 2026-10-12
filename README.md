@@ -1,1 +1,2 @@
-# git-practice
+Jeg lærer at bruge Git og GitHub.
+Dette er min første ændring på en branch.
