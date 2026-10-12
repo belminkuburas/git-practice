@@ -1,1 +1,1 @@
-Min yndlingsfarve er blå.
+Min yndlingsfarve er rød.
